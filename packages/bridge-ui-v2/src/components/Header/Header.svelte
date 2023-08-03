@@ -10,8 +10,6 @@
   $: isBridgePage = $page.route.id === '/' || $page.route.id === '/nft';
 </script>
 
-<!-- <DesktopOrLarger bind:is={isDesktopOrLarger} /> -->
-
 <header
   class="
     sticky-top
